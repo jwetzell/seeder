@@ -18,10 +18,10 @@ can look up your seeds/find your perfect ones whitout installing or configuring 
 - [x] Generates biomes for a given seed
 - [x] Find the spawn point
 - [x] Find a seed containing a list of biomes in a given range
-- [x] Find a seed containing a strcuture in a given range
-- [x] Find a seed containing a strcuture AND a list of biomes in a given range
+- [x] Find a seed containing a structure in a given range
+- [x] Find a seed containing a structure AND a list of biomes in a given range
 - [x] Works with different MC versions up to 1.20
-- [x] Finding rare seeds may slow down you PC while the search is running (seed finding is a very CPU intensive job)
+- [x] Finding rare seeds may slow down your PC while the search is running (seed finding is a very CPU intensive job)
 - [x] Support for the Nether and End
 
 ## Coming features:
